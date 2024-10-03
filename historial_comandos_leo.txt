@@ -1,0 +1,152 @@
+ssh_keygen -t ed25519
+ssh_keygen
+ssh-keygen -t ed25519
+ls -la
+cd .ssh/ed25519.puv
+cat -ssh/ed25519.puv
+cat .ssh/ed25519.pub
+cat .ssh/id_ed25519
+cat .ssh/id_ed25519.pub
+ls -l
+ls -la
+ls l .ssh
+clear
+ssh-keygen -t ed25519
+ls -la
+cat .ssh/id_ed25519.pub
+vagrant@VMPruebas:~$
+ls
+cd repogit/
+git clone git@github.com:leonelbeneju/TP_aySO.git
+cd TP_aySO/
+cat /etc/os-release
+man grep
+grepHOME_URL/etc/os-release
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls
+git add.
+git add . 
+git commit -m "ADD:agregado1erejercicio sobredatos_usuarios.txt"
+git status
+grep -v "model name" / proc/cpuinfo | grep -v "model name" /proc/cpuinfo | head -1 >> datos_usuario.txt
+grep -v "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+exit
+git status
+ls -la
+cd repogit
+cd TP_aySO/
+man man
+exit
+whoami
+ls -l
+grep -v "model name" / proc/cpuinfo | grep v "model name" /proc/cpuinfo | head -1 >> datos_usuario.txt
+history
+man man
+man apropos(1)
+man apropos
+git status
+repogit/TP_aySO/
+repogit/TP_aySO/$
+repogit/TP_aySO/
+cat /etc/os-release
+git status
+head
+exit
+echo mkdir /carpeta1
+history
+git status
+mkdir 
+mkdir --help
+mkdir -m
+-m
+mkdir /carpeta1.{hijos(1..5)/mama(1..5)}
+exit
+whoami
+ls -lah
+cd home
+home
+.bash_history
+cat history
+cd repogit
+ls
+pwd
+cd TP_aySO/
+ls -l
+rm -r datos_usuario.txt
+ls -l
+cat /etc/os-release
+man grep
+grep home_url /etc/os-release
+grep HOME_URL /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git add .
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+cat datos_usuario.txt
+grep "model name" /proc/cpuinfo
+cat datos_usuario.txt
+cat datos_usuario
+ll
+exit
+history
+whoami
+ls -la
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt 
+pwd
+rm -r datos_usuario.txt 
+cd repogit
+ls -l
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls -l
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt 
+ls 
+rm -r datos_usuario.txt 
+ls
+cd TP_aySO/
+echo “Usuario=$(whoami)” > datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt 
+ls
+rm datos_usuario.txt
+ls
+cat datos_usuarios.txt 
+rm -r datos_usuarios.txt 
+echo “Usuario=$(whoami)” > datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt 
+ls
+cat datos_usuarios.txt 
+cat datos_usuario.txt 
+git add . 
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m 'feat: Añadiendo información de CPU'
+grep -v 'nologin' /etc/passwd | head -n10 | sort t: -k7 > lista_ordenada
+grep -v 'nologin' /etc/passwd | head -n10 | sort -t: -k7 > lista_ordenada
+ls
+cat 
+cat lista_ordenada 
+git add . 
+git commit -m 'ADD: Listado de usuarios ordenada'
+apropos dump 
+echo 'tpcdump' 
+echo 'tpcdump' > comando_dump_net
+ls
+git add . 
+git commit -m 'ADD: Comando para Capturar y analizar el tráfico de red'
+cat << EOF >> README.md 
+
+alumno: leonel beneju
+division: 318
+turno: noche
+EOF
+
+git add .
+git commit -m 'docs': 'datos añadidos al archivo README.md' 
+git commit -m 'docs: datos añadidos al archivo README.md' 
+history -a
