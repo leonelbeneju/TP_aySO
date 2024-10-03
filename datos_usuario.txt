@@ -1,1 +1,2 @@
 “Usuario=vagrant”
+model name	: AMD E-350 Processor
